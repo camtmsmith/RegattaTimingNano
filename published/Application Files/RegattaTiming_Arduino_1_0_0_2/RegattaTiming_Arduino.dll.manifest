@@ -63,13 +63,22 @@
       <dsig:DigestValue>Ghq46RF/YLMfm/CcV+9sacGWlRbt+eeZ2MIrpOFAT+o=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="RegattaTiming_Arduino.dll" size="14336">
+  <file name="RegattaTiming_Arduino.dll" size="15360">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>04n1ClLcKKbZM2eU4JmAAJFfd30uXsV1rE6SXRbTd4c=</dsig:DigestValue>
+      <dsig:DigestValue>K3RmXTVp9IrOgcuG+cuLfjVeWM1jorxbX2H86USAiP4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="RegattaTiming_Arduino.dll.config" size="83">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pmwcY1Qq0vITa1L3cYzJmD8s6ND1Or/BNm3WjpOXOqk=</dsig:DigestValue>
     </hash>
   </file>
   <file name="RegattaTiming_Arduino.exe" size="141312">
@@ -78,7 +87,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>a/on0Ke+F+7ivlVRqYVtd0mDNjjzD0EmsUS7yb5pIT8=</dsig:DigestValue>
+      <dsig:DigestValue>9OyqPM0uzfsRTuSmot3oazT1TLn3oWdRVBFz7VEZL6U=</dsig:DigestValue>
     </hash>
   </file>
   <file name="RegattaTiming_Arduino.runtimeconfig.json" size="515">
